@@ -1,0 +1,6 @@
+{
+  "name": "OMI IPAS 2026 - Bank Soal Olimpiade Madrasah Indonesia",
+  "description": "Platform latihan cerdas dan bank soal olimpiade IPAS terintegrasi untuk siswa MI/SD kelas 4, 5, dan 6 menuju OMI 2026 tingkat Kabupaten, Provinsi, dan Nasional.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
